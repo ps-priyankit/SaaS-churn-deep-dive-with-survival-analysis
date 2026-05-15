@@ -1,0 +1,7 @@
+data/raw/
+data/processed/
+outputs/tableau_data/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
