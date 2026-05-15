@@ -1,0 +1,11 @@
+feature,importance
+support_tickets,1.75
+Contract,0.85
+MonthlyCharges,0.45
+tenure,0.32
+TechSupport,0.28
+OnlineSecurity,0.26
+TotalCharges,0.25
+InternetService,0.09
+SeniorCitizen,0.07
+signup_channel,0.03

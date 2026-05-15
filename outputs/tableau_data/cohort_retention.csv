@@ -1,0 +1,16 @@
+tenure_band,Contract,total,churned,retention_rate
+0-3m,Month-to-month,1025,595,42.0
+0-3m,One year,20,2,90.0
+0-3m,Two year,6,0,100.0
+3-6m,Month-to-month,388,185,52.3
+3-6m,One year,18,2,88.9
+3-6m,Two year,13,0,100.0
+6-12m,Month-to-month,581,244,58.0
+6-12m,One year,85,9,89.4
+6-12m,Two year,39,0,100.0
+12-24m,Month-to-month,737,278,62.3
+12-24m,One year,197,16,91.9
+12-24m,Two year,90,0,100.0
+24m+,Month-to-month,1144,353,69.1
+24m+,One year,1152,137,88.1
+24m+,Two year,1537,48,96.9
