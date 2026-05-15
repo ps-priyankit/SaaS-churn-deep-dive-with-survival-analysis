@@ -65,13 +65,14 @@ where churn risk peaks by segment — and quantified the revenue at risk.
 IBM Telco Customer Churn (Kaggle) — 7,043 customers, 21 features.  
 Augmented with 3 engineered columns: signup_channel, support_tickets, monthly_revenue.
 
----
 
 ## Project Structure
+
+```
 saas-churn-survival-analysis/
 ├── data/
-│   ├── raw/                    ← original CSV
-│   └── processed/              ← cleaned CSV
+│   ├── raw/
+│   └── processed/
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_eda.ipynb
@@ -79,13 +80,13 @@ saas-churn-survival-analysis/
 │   ├── 04_churn_model.ipynb
 │   └── 05_ltv_financials.ipynb
 ├── outputs/
-│   ├── charts/                 ← saved PNG exports
-│   └── tableau_data/           ← CSVs for Tableau
+│   ├── charts/
+│   └── tableau_data/
+├── assets/
 ├── churn_analysis.sql
-├── requirements.txt
 └── README.md
+```
 
----
 
 ## Analysis Walkthrough
 
