@@ -8,6 +8,16 @@
 ## Live Dashboard
 [View on Tableau Public](https://public.tableau.com/views/SaaSChurnIntelligence/ExecutiveOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](assets/dashboard1_executive_overview.png)
+
+### Survival & Cohort Analysis
+![Survival Analysis](assets/dashboard2_survival_cohort.png)
+
+### Intervention Strategy
+![Intervention Strategy](assets/dashboard3_intervention_strategy.png)
 ---
 
 ## Executive Summary
@@ -134,17 +144,6 @@ saas-churn-survival-analysis/
 
 ---
 
-## Setup & Installation
-
-```bash
-git clone https://github.com/ps-priyankit/SaaS-churn-deep-dive-with-survival-analysis
-cd saas-churn-survival-analysis
-pip install -r requirements.txt
-```
-
-Run notebooks in order: 01 → 02 → 03 → 04 → 05
-
----
 
 ## Contact
 
